@@ -1,0 +1,7 @@
+{
+    "user_account":"您的学号",
+    "user_password":"您的密码",
+    "operator":"您的运营商，中国联通：unicom 中国移动：cmcc 中国电信：telecom",
+    "info_sheet_path":"infosheet.json的路径 示例：/usr/local/logincumt/infosheet.json",
+    "log_file_path":"日志文件的存储目录，示例：/usr/local/logincumt/log/"
+}

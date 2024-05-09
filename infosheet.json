@@ -1,0 +1,357 @@
+[
+    {
+        "ret_code": "0",
+        "raw_info": "",
+        "info_zh": "SESSION已过期,请重新登录",
+        "info_en": "The SESSION has been expired, please log in again"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "no errcode",
+        "info_zh": "AC认证失败",
+        "info_en": "AC authentication failure"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Authentication Fail ErrCode=04",
+        "info_zh": "上网时长/流量已到上限",
+        "info_en": "Online time / flow rate has been to the limit"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Authentication Fail ErrCode=05",
+        "info_zh": "您的账号已停机，造成停机的可能原因：1、用户欠费停机2、用户报停。需要了解具体原因，请访问自助服务系统。",
+        "info_en": "Your account has been shut down"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Authentication Fail ErrCode=09",
+        "info_zh": "本账号费用超支，禁止使用",
+        "info_en": "Online time / flow rate has been to the limit"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Authentication Fail ErrCode=11",
+        "info_zh": "不允许Radius登录",
+        "info_en": "Not allow radius login"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Authentication Fail ErrCode=80",
+        "info_zh": "接入服务器不存在",
+        "info_en": "Access to the server does not exist"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Authentication Fail ErrCode=81",
+        "info_zh": "LDAP认证失败",
+        "info_en": "LDAP Authentication Failure"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Authentication Fail ErrCode=85",
+        "info_zh": "账号正在使用",
+        "info_en": "Accounts are in use"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Authentication Fail ErrCode=86",
+        "info_zh": "绑定IP或MAC失败",
+        "info_en": "IP or MAC Binding Fail"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Authentication Fail ErrCode=88",
+        "info_zh": "IP地址冲突",
+        "info_en": "IP address conflict"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Authentication Fail ErrCode=94",
+        "info_zh": "接入服务器并发超限",
+        "info_en": "Concurrent access to the server overrun"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "err(2)",
+        "info_zh": "请在指定的登录源地址范围内登录",
+        "info_en": "Please Login in at the specified source address range"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "err(3)",
+        "info_zh": "请在指定的IP登录",
+        "info_en": "Please login at the specified IP"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "err(7)",
+        "info_zh": "请在指定的登录源VLAN范围登录",
+        "info_en": "Please login in at specified Vlan scope"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "err(10)",
+        "info_zh": "请在指定的Vlan登录",
+        "info_en": "Please login at the specified Vlan"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "err(11)",
+        "info_zh": "请在指定的MAC登录",
+        "info_en": "Please login at the specified MAC"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "err(17)",
+        "info_zh": "请在指定的设备端口登录",
+        "info_en": "Please login with the specified equipment port"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "userid error1",
+        "info_zh": "账号不存在",
+        "info_en": "Account does not exist"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "userid error2",
+        "info_zh": "密码错误",
+        "info_en": "Password Error"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "userid error3",
+        "info_zh": "密码错误",
+        "info_en": "Password Error"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "auth error4",
+        "info_zh": "用户使用量超出限制",
+        "info_en": "Users to use more than limit"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "auth error5",
+        "info_zh": "账号已停机",
+        "info_en": "This account has been shut down"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "auth error9",
+        "info_zh": "时长流量超支",
+        "info_en": "Time length or flow overruns"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "auth error80",
+        "info_zh": "本时段禁止上网",
+        "info_en": "This time on the Internet is prohibited"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "auth error99",
+        "info_zh": "用户名或密码错误",
+        "info_en": "The user name or password mistake"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "auth error198",
+        "info_zh": "用户名或密码错误",
+        "info_en": "The user name or password mistake"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "auth error199",
+        "info_zh": "用户名或密码错误",
+        "info_en": "The user name or password mistake"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "auth error258",
+        "info_zh": "账号只能在指定区域使用",
+        "info_en": "This account can only be used in designated areas"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "auth error",
+        "info_zh": "用户验证失败",
+        "info_en": "Failed to authenticate user"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "set_onlinet error",
+        "info_zh": "用户数超过限制",
+        "info_en": "Users more than limit"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "In use",
+        "info_zh": "登录超过人数限制",
+        "info_en": "Log in more than limit"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "port err",
+        "info_zh": "上课时间不允许上网",
+        "info_en": "Class time is not allowed to access to the Internet"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "can not use static ip",
+        "info_zh": "不允许使用静态IP",
+        "info_en": "Can not use static ip"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "[01], 本帐号只能在指定VLANID使用(0.4095)",
+        "info_zh": "本帐号只能在指定VLANID使用",
+        "info_en": "This account can only be used in the specified VLANID"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Mac, IP, NASip, PORT err(6)!",
+        "info_zh": "本帐号只能在指定VLANID使用",
+        "info_en": "This account can only be used in the specified VLANID"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "wuxian OLno",
+        "info_zh": "VLAN范围控制账号的接入数量超出限制",
+        "info_en": "VLAN range control account access limit exceeded"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Oppp error: 1",
+        "info_zh": "运营商账号密码错误，错误码为：1",
+        "info_en": "Operator account password error, error code: 1"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Oppp error: 5",
+        "info_zh": "运营商账号在线，错误码为：5",
+        "info_en": "Operator account online, error code: 5"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Oppp error: 18",
+        "info_zh": "运营商账号密码错误，错误码为：18",
+        "info_en": "Operator account password error, error code: 18"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Oppp error: 21",
+        "info_zh": "运营商账号在线，错误码为：21",
+        "info_en": "Operator account online, error code: 21"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Oppp error: 26",
+        "info_zh": "运营商账号被绑定，错误码为：26",
+        "info_en": "Operator account online, error code: 21"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Oppp error: 29",
+        "info_zh": "运营商账号锁定的用户端口NAS-Port-Id错误，错误码为：29",
+        "info_en": "Operator account online, error code: 21"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Oppp error: userid inuse",
+        "info_zh": "运营商账号已被使用",
+        "info_en": "Operator account has been used"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Oppp error: can't find user",
+        "info_zh": "运营商账号无法获取或不存在",
+        "info_en": "Operator account could not be obtained or does not exist"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "bind userid error",
+        "info_zh": "绑定运营商账号失败",
+        "info_en": "Bind operator account failed"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Oppp error: TOO MANY CONNECTIONS",
+        "info_zh": "运营商账号在线",
+        "info_en": "Operator account online"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Oppp error: Timeout",
+        "info_zh": "运营商账号状态异常(欠费等)",
+        "info_en": "Operator account status abnormal(arrears, etc.)"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Oppp error: User dial-in so soon",
+        "info_zh": "运营商账号刚下线",
+        "info_en": "Operator account just off the assembly line"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Rad:UserName_Err",
+        "info_zh": "绑定的运营商账号错误，请联系运营商核实或去运营商校园业厅进行绑定。",
+        "info_en": "Bind the operator account error, please contact the operator to verify or go to the operator campus hall to bind."
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Rad:Passwd_Err",
+        "info_zh": "绑定的运营商密码错误，请联系运营商核实或去运营商校园业厅进行绑定。",
+        "info_en": "Wrong password for the operator account, please contact the operator to verify or go to the operator campus hall to bind."
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Rad:UserName invalid",
+        "info_zh": "绑定的运营商账号存在非法字符，请联系运营商核实或去运营商校园业厅进行绑定。",
+        "info_en": "Bind the operator account with illegal characters, please contact the operator to verify or go to the operator campus hall to bind."
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Authentication Fail ErrCode=16",
+        "info_zh": "本时段不允许上网",
+        "info_en": "This time is not allowed to access to the Internet"
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Mac, IP, NASip, PORT err(2)!",
+        "info_zh": "本账号不允许在此网络使用，请检查接入网络是否正确。",
+        "info_en": "This account is not allowed to use in this network, please check whether the access network is correct."
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Rad:Status_Err",
+        "info_zh": "您绑定的运营商账号状态异常，请联系对应运营商处理。",
+        "info_en": "The status of the operator account you bind is abnormal, please contact the corresponding operator for processing."
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Rad:Limit_Users_Err",
+        "info_zh": "运营商报错：您的账号同时在线终端数已经超限，运营商拒绝登录。",
+        "info_en": "Error from operator: The number of terminals online at the same time has exceeded the limit, and the operator refuses to log in."
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Rad:Vlan_Err",
+        "info_zh": "运营商报错：您的vlan信息错误，请联系对应运营商解决。",
+        "info_en": "Error from operator: Your vlan information is incorrect, please contact the corresponding operator to solve."
+    },
+    {
+        "ret_code": "0",
+        "raw_info": "Rad:Limit Users Err",
+        "info_zh": "您的登陆超限，请在自服务下线终端。",
+        "info_en": "Your login devices is over the limit, please log off the terminal in self-service."
+    },
+    {
+        "ret_code": "1",
+        "raw_info": "ldap auth error",
+        "info_zh": "统一身份认证用户名密码错误！",
+        "info_en": "ldap auth error"
+    }
+]
+    
